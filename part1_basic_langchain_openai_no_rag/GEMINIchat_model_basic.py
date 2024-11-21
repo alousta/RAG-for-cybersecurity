@@ -7,8 +7,9 @@
 # OpenAI Chat Model Documents: https://python.langchain.com/v0.2/docs/integrations/chat/openai/
 
 # Import the required libraries
-from dotenv import load_dotenv
-from langchain_openai import ChatOpenAI
+#from dotenv import load_dotenv
+#from langchain_openai import ChatOpenAI
+
 
 # Load environment variables from .env
 load_dotenv()
